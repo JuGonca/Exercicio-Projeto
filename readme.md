@@ -2,6 +2,7 @@ Exercício
 Criando Navegação entre arquivos
 
 -Criar um projeto contendo:
+
     -2 arquivos no diretório principal
         -index.html
             -menu de navegação usando a tag nav
